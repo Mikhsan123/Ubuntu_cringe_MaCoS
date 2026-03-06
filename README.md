@@ -1,5 +1,16 @@
 # My Ubuntu macOS-adjacent Aesthetic Experiment
+Yes, I know.
+WhiteSur in 2026 is roughly like wearing flip-flops with socks: technically possible, but everyone already knows it's the choice of a true alpha.
+Nevertheless, here's my current setup, assembled during those hours I could have spent on something useful.
+What's going on here
 
+Themes: WhiteSur in every possible shade of depression and MacTahoe, because one variant is just too few
+Icons: La Capitaine — a classic that has aged better than I have
+Font: SF Pro Display 11 — because "Inter" is for wimps
+Blur-my-shell — the only extension that makes GNOME look even remotely like what Apple was doing back in 2014
+GNOME settings: saved in a file so that tomorrow morning I can tell myself "this was all for nothing"
+
+-------------------------------------------------------------------------------------------------------------------------------------
 Да, я знаю.  
 WhiteSur в 2026 году — это примерно как носить сланцы с носками: технически можно, но все уже в курсе, что это выбор настоящего самца.
 
