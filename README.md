@@ -24,6 +24,9 @@ WhiteSur в 2026 году — это примерно как носить сла
 - Blur-my-shell — единственное расширение, которое делает GNOME хоть немного похожим на то, что Apple делала ещё в 2014
 - Настройки GNOME: сохранены в файле, чтобы завтра утром я мог сказать себе «это всё было зря»
 
+<img width="1920" height="1200" alt="Снимок экрана от 2026-03-06 23-44-15" src="https://github.com/user-attachments/assets/04ae2462-b0e5-4cd6-976b-fef862230fd3" />
+
+
 ### Установка 
 
 ```bash
@@ -36,4 +39,4 @@ gnome-tweaks
 gnome-shell-extensions
 желание немного пострадать ради эстетики
 
-<img width="1920" height="1200" alt="Снимок экрана от 2026-03-06 23-44-15" src="https://github.com/user-attachments/assets/eaad213e-5303-49fa-ab2e-9b716106e908" />
+
